@@ -18,7 +18,7 @@ Impelement module app
                 android:id="@+id/shimmer_view_container"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingLeft="100dp"
+               
                 >
                 <TextView
                     android:id="@+id/tt"
